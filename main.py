@@ -4,7 +4,7 @@ import csv
 
 
 def generate_id():
-    return randint(12000, 18000)
+    return randint(1, 25000)
 
 
 c = 0
